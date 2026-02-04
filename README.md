@@ -1,6 +1,3 @@
-# Produccion-de-miel
-Análisis de la producción de miel en Estados Unidos (1995–2021)
-
 # Análisis de la producción de miel en Estados Unidos (1995–2021)
 
 Este proyecto analiza datos históricos de **producción de miel en Estados Unidos entre 1995 y 2021**, con el objetivo de **entender patrones de producción, eficiencia y valor económico**, y proponer **recomendaciones basadas en datos** para el sector apícola.
