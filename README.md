@@ -111,7 +111,7 @@ Las visualizaciones permiten identificar tendencias y outliers de forma intuitiv
 
 - **Python**
   - pandas, numpy
-  - matplotlib, seaborn
+  - matplotlib, `seaborn`
   - scikit-learn (escalado)
 - **SQL (BigQuery)**
 - **Tableau** (visualización final)
@@ -139,4 +139,4 @@ Las visualizaciones permiten identificar tendencias y outliers de forma intuitiv
 ## 👤 Autor
 
 **Flavia Hepp**  
-Data Analyst en formación  
+Data Analyst 
