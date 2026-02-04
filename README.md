@@ -1,4 +1,4 @@
-# Análisis de la producción de miel en Estados Unidos (1995–2021)
+# 🍯🍯Análisis de la producción de miel en Estados Unidos (1995–2021)
 
 Este proyecto analiza datos históricos de **producción de miel en Estados Unidos entre 1995 y 2021**, con el objetivo de **entender patrones de producción, eficiencia y valor económico**, y proponer **recomendaciones basadas en datos** para el sector apícola.
 
@@ -6,7 +6,7 @@ El trabajo forma parte de un **proyecto final propio inspirado en el Google Data
 
 ---
 
-## 🍯 Contexto
+## 🌎 Contexto
 
 La miel es un producto clave tanto desde el punto de vista económico como ecológico.  
 Las abejas cumplen un rol fundamental en la polinización y la producción de alimentos, por lo que analizar la evolución de la producción de miel permite:
